@@ -1,3 +1,4 @@
+#initial funtion
 def add(a,b):
 	return a+b
 
