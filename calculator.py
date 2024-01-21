@@ -10,5 +10,5 @@ def subtract(a,b):
 def multiply(a,b):
 	return a*b
 
-def divide_new(a,b):
+def divide_new_update(a,b):
 	return a/b
